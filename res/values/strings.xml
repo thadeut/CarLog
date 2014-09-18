@@ -4,5 +4,7 @@
     <string name="app_name">Car Log</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+	<string name="enter_fuel">Digite quantidade abastecida (litros)</string>
+	<string name="enter_price">Digite preço pago (Reais)</string>
+	<string name="enter_km">Digite quilometragem total</string>
 </resources>
